@@ -1,0 +1,44 @@
+[
+  {
+    "instruction": "Answer the following question about the National Bank of Ethiopia",
+    "input": "What is the National Bank of Ethiopia?",
+    "output": "TheNational Bank of Ethiopiais thecentral bank of Ethiopia. It plays a pivotal role in the country’s economic and financial system by serving as theregulator of the financial sectorand theformulator and implementer of monetary policy.\nLearn more about what we do and how we do it.\nFind out about our roles and function",
+    "source": "https://nbe.gov.et",
+    "category": "National Bank of Ethiopia FAQ"
+  },
+  {
+    "instruction": "Answer the following question about the National Bank of Ethiopia",
+    "input": "Does The National Bank of Ethiopia provide loan?",
+    "output": "TheNational Bank of Ethiopia, as the country’s central bank, doesnot provide loans directly to individuals or businesses.Its primary role is to maintain monetary stability and oversee the financial system.However, it does extend credit to thegovernmentandcommercial banksas part of its monetary policy operations\nTheNational Bank of Ethiopia, as the country’s central bank, doesnot provide loans directly to individuals or businesses. Its primary role is to maintain monetary stability and oversee the financial system. However, it does extend credit to thegovernmentandcommercial banksas part of its monetary policy operations",
+    "source": "https://nbe.gov.et",
+    "category": "National Bank of Ethiopia FAQ"
+  },
+  {
+    "instruction": "Answer the following question about the National Bank of Ethiopia",
+    "input": "How do I check if my banknotes are genuine?",
+    "output": "We provide a range of free education materials about our notes and their security features. These include leaflets and posters that can be downloaded or ordered online, as well as short films and online training.",
+    "source": "https://nbe.gov.et",
+    "category": "National Bank of Ethiopia FAQ"
+  },
+  {
+    "instruction": "Answer the following question about the National Bank of Ethiopia",
+    "input": "How does the National Bank of Ethiopia ensure banks are safe?",
+    "output": "We set rules for how banks should be run financially. These rules ensure banks have enough capital (money or other wealth such as property or shares) and the right plans and structures in place.\nWe monitor banks to ensure they follow our policy. We do this by keeping in contact with bank staff at all levels so we can keep an eye on things like their accounts and the way they work. We call this work ‘supervision’.\nIf a bank does get into difficulty, we work with it to ensure that firms have orderly wind-down plans in place.\nUsing regulation and supervision, we try to make sure that banks are run properly, and that if a bank fails it doesn’t cause widespread problems in the economy.",
+    "source": "https://nbe.gov.et",
+    "category": "National Bank of Ethiopia FAQ"
+  },
+  {
+    "instruction": "Answer the following question about the National Bank of Ethiopia",
+    "input": "What does SWIFT mean?",
+    "output": "SWIFT is a secured telecommunication system serving members and the financial community. The word SWIFT represents Society for Worldwide Inter-bank Financial Telecommunication. It is a reliable and less costly method to transfer money. All banks in Ethiopia use the system to effect monetary transaction.",
+    "source": "https://nbe.gov.et",
+    "category": "National Bank of Ethiopia FAQ"
+  },
+  {
+    "instruction": "Answer the following question about the National Bank of Ethiopia",
+    "input": "Can I get a foreign currency to pay for education, subscriptions, health, etc?",
+    "output": "All eligible individuals can get foreign currency from commercial banks for these and other purposes.",
+    "source": "https://nbe.gov.et",
+    "category": "National Bank of Ethiopia FAQ"
+  }
+]
