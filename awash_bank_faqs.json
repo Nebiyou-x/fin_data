@@ -1,0 +1,212 @@
+[
+  {
+    "instruction": "Answer the following banking question",
+    "input": "What are loyalty points and how can I convert loyalty point to airtime charge?",
+    "output": "• Loyalty points are points awarded to customers per transaction using Awashbirr App or USSD. These points will be converted into airtime charge when you reach a minimum of 20 points.\n• Loyalty points are points awarded to customers per transaction using Awashbirr App or USSD. These points will be converted into airtime charge when you reach a minimum of 20 points.",
+    "source": "https://www.awashbank.com/faq",
+    "category": "Awash Bank FAQ"
+  },
+  {
+    "instruction": "Answer the following banking question",
+    "input": "What is the E-school Management System?",
+    "output": "• E-school Management System is an innovative payment solution designed to remove the inconveniences from schools, parents, guardians and students with variety of options such as E-library, Real time reports, E-learning, Grading, Paperless Admission, Fees management, and Online classroom.\n• E-school Management System is an innovative payment solution designed to remove the inconveniences from schools, parents, guardians and students with variety of options such as E-library, Real time reports, E-learning, Grading, Paperless Admission, Fees management, and Online classroom.",
+    "source": "https://www.awashbank.com/faq",
+    "category": "Awash Bank FAQ"
+  },
+  {
+    "instruction": "Answer the following banking question",
+    "input": "How do I get mobile and internet banking service?",
+    "output": "• Fill application form at any Awash Bank branch\n• Fill application form at any Awash Bank branch",
+    "source": "https://www.awashbank.com/faq",
+    "category": "Awash Bank FAQ"
+  },
+  {
+    "instruction": "Answer the following banking question",
+    "input": "How do I use mobile banking account?",
+    "output": "There are two ways of using mobile banking service\nThe first one is:\n• Dial *901# (No need of internet)\n• Insert your password\n• Select the option you want\n• Dial *901# (No need of internet)\n• Insert your password\n• Select the option you want\nThe second one is:\n• Download “AwashBirr App” from Play Store or App store (It requires internet data)\n• Insert your password\n• Select the option you want\n• Download “AwashBirr App” from Play Store or App store (It requires internet data)\n• Insert your password\n• Select the option you want\nPlease don’t share your pin/password to anyone",
+    "source": "https://www.awashbank.com/faq",
+    "category": "Awash Bank FAQ"
+  },
+  {
+    "instruction": "Answer the following banking question",
+    "input": "How do I use internet banking services?",
+    "output": "• Open this Link:https://www.awashonline.com.et/\n• Enter your client ID or alias\n• Insert your password\n• Select the option you want\n• Open this Link:https://www.awashonline.com.et/\n• Enter your client ID or alias\n• Insert your password\n• Select the option you want\nFor more information please visit this linkhttps://awashbank.com/online-channel-internet-banking/",
+    "source": "https://www.awashbank.com/faq",
+    "category": "Awash Bank FAQ"
+  },
+  {
+    "instruction": "Answer the following banking question",
+    "input": "How do I request whether a deposit amount has been made or not to an account?",
+    "output": "• You can get it via mobile banking service or\n• You can get it via mobile banking service or\nYou can get it by dialing our free customer service line 8980. Information will be provided if the customer is able to respond calls validity accurately.",
+    "source": "https://www.awashbank.com/faq",
+    "category": "Awash Bank FAQ"
+  },
+  {
+    "instruction": "Answer the following banking question",
+    "input": "How can I get exchange rates for today?",
+    "output": "You can get the exchange rate through mobile banking service, Awash Bank Website and via 8980 customer line.",
+    "source": "https://www.awashbank.com/faq",
+    "category": "Awash Bank FAQ"
+  },
+  {
+    "instruction": "Answer the following banking question",
+    "input": "How can I request for a refund when Awash Bank’s ATM machine could not pay cash after the amount is deducted from Awash Bank account?",
+    "output": "If not reversed back to your account after a few minutes, visit your nearby Awash Bank branch and fill a form for a refund.",
+    "source": "https://www.awashbank.com/faq",
+    "category": "Awash Bank FAQ"
+  },
+  {
+    "instruction": "Answer the following banking question",
+    "input": "How can I request for a refund when other bank’s ATM machine could not pay cash after the amount is deducted from Awash Bank account?",
+    "output": "• If not reversed back to your account after a few minutes, visit your nearest Awash Bank branch and fill a form or contact our customer line via 8980.\n• You will receive SMS alert upon registration of your other bank’s ATM transaction failure.\n• If not reversed back to your account after a few minutes, visit your nearest Awash Bank branch and fill a form or contact our customer line via 8980.\n• You will receive SMS alert upon registration of your other bank’s ATM transaction failure.\nYou will also receive another SMS alert message upon resolution of your case that was registered above",
+    "source": "https://www.awashbank.com/faq",
+    "category": "Awash Bank FAQ"
+  },
+  {
+    "instruction": "Answer the following banking question",
+    "input": "How can I reset blocked mobile banking PIN (password)?",
+    "output": "Please visit the nearest Awash Bank branch to reset your PIN (password)?",
+    "source": "https://www.awashbank.com/faq",
+    "category": "Awash Bank FAQ"
+  },
+  {
+    "instruction": "Answer the following banking question",
+    "input": "What is Paypal Service?",
+    "output": "PayPal is a type of money transfer system like western union, MoneyGram, and others. Customers who lives abroad can send money to Ethiopia to be credited/deposited to Awash Bank account or receive in cash at any awash bank branch.",
+    "source": "https://www.awashbank.com/faq",
+    "category": "Awash Bank FAQ"
+  },
+  {
+    "instruction": "Answer the following banking question",
+    "input": "How can I get Awash Bank Credit Card Services?",
+    "output": "You are entitled for this service as long as you fulfill the criteria set by the bank.",
+    "source": "https://www.awashbank.com/faq",
+    "category": "Awash Bank FAQ"
+  },
+  {
+    "instruction": "Answer the following banking question",
+    "input": "How can I use Online Job Application System?",
+    "output": "Open the website (https://jobs.awashbank.com), create an account if necessary, log in, and then select “Apply” for the post for which you are qualified.",
+    "source": "https://www.awashbank.com/faq",
+    "category": "Awash Bank FAQ"
+  },
+  {
+    "instruction": "Answer the following banking question",
+    "input": "What are the basic requirements for Mortgage Savers Loan (House Loan)",
+    "output": "• The minimum initial account opening balance is Birr 500\n• Deposit amount shall not be less than ETB 100,000.00\n• Limit of Loan up to 70% of the cost of the property\n• The customer should save 30% of the purchase value not less than 1 year.\n• The minimum initial account opening balance is Birr 500\n• Deposit amount shall not be less than ETB 100,000.00\n• Limit of Loan up to 70% of the cost of the property\n• The customer should save 30% of the purchase value not less than 1 year.\nTenure of the loan up to 20 years based on circumstances",
+    "source": "https://www.awashbank.com/faq",
+    "category": "Awash Bank FAQ"
+  },
+  {
+    "instruction": "Answer the following banking question",
+    "input": "What are the basic requirements for Small Road Transport Operators Loan (Car Loan)",
+    "output": "• The minimum account opening balance is 100 Birr\n• The customer should save at least 30% of the purchase value.\n• Loan target such as: Taxi operators, Minibus, Three wheeler (Bajaj and similar vehicles) and Long distance buses operators (Owners and drivers)\n• Tenure of the loan 1-5 years to maturity\n• Limit of Loan up to 70% of the cost of the property\n• The minimum account opening balance is 100 Birr\n• The customer should save at least 30% of the purchase value.\n• Loan target such as: Taxi operators, Minibus, Three wheeler (Bajaj and similar vehicles) and Long distance buses operators (Owners and drivers)\n• Tenure of the loan 1-5 years to maturity\n• Limit of Loan up to 70% of the cost of the property\nThe account can be operated by passbook, and digital channels /ATM Card, POS, Mobile and internet Banking",
+    "source": "https://www.awashbank.com/faq",
+    "category": "Awash Bank FAQ"
+  },
+  {
+    "instruction": "Answer the following banking question",
+    "input": "What are the requirements to open a regular saving account ?",
+    "output": "To process the opening of a saving account;\n• Valid Identity card\n• Two passport-size photographs\n• Valid Identity card\n• Two passport-size photographs\nInitial deposit",
+    "source": "https://www.awashbank.com/faq",
+    "category": "Awash Bank FAQ"
+  },
+  {
+    "instruction": "Answer the following banking question",
+    "input": "What are the requirements to open a current account private sector (individual or sole proprietor)?",
+    "output": "The procedure to open a current account private sector:\n• Renewed Trade License\n• Principal Registration Certificate\n• Tax Identification Number /TIN/\n• Valid ID card\n• Renewed Trade License\n• Principal Registration Certificate\n• Tax Identification Number /TIN/\n• Valid ID card\nOne Passport size photograph",
+    "source": "https://www.awashbank.com/faq",
+    "category": "Awash Bank FAQ"
+  },
+  {
+    "instruction": "Answer the following banking question",
+    "input": "What are the requirements for fixed time deposit opening?",
+    "output": "• The customer need to have an account with the bank before opening Fixed Time Deposit account\n• The customer need to have an account with the bank before opening Fixed Time Deposit account\nNegotiate with the branch for the interest rate",
+    "source": "https://www.awashbank.com/faq",
+    "category": "Awash Bank FAQ"
+  },
+  {
+    "instruction": "Answer the following banking question",
+    "input": "What are the requirements to open smart children account?",
+    "output": "Smart Children account is a type of savings account. The procedure to open account:\n• The account should be available only to children under 18 years’ old\n• Birth certificate of the minor/child\n• Two passport size photos of the child\n• Valid Identity card of the parent or the guardian\n• Two passport size photographs of the parent or the guardian\n• Letter of appointment by court, in the case of a guardian\n• Initial deposit, and\n• The account should be available only to children under 18 years’ old\n• Birth certificate of the minor/child\n• Two passport size photos of the child\n• Valid Identity card of the parent or the guardian\n• Two passport size photographs of the parent or the guardian\n• Letter of appointment by court, in the case of a guardian\n• Initial deposit, and\nIncentive gifts will be provided",
+    "source": "https://www.awashbank.com/faq",
+    "category": "Awash Bank FAQ"
+  },
+  {
+    "instruction": "Answer the following banking question",
+    "input": "What are the requirements to open student solution account?",
+    "output": "Student solution account is a type of savings account. The procedure to open account: –\n• The Account should be available only to students\n• Valid student identification card\n• Initial deposit\n• The Account should be available only to students\n• Valid student identification card\n• Initial deposit\nThen incentives bonus, issuing ATM card free of card subscription fee and loan facilities.",
+    "source": "https://www.awashbank.com/faq",
+    "category": "Awash Bank FAQ"
+  },
+  {
+    "instruction": "Answer the following banking question",
+    "input": "What are the requirements to open salary solution account?",
+    "output": "The procedure to open salary solution account: –\n• Available to only employees upon written request of their employers\n• Valid employee identification card\n• No Initial balance\n• Available to only employees upon written request of their employers\n• Valid employee identification card\n• No Initial balance\nATM card shall be issued free of card subscription fee andAccess to credit/loan facility",
+    "source": "https://www.awashbank.com/faq",
+    "category": "Awash Bank FAQ"
+  },
+  {
+    "instruction": "Answer the following banking question",
+    "input": "What are the requirements to open Check Payment Solution Scheme?",
+    "output": "The procedure to open account: –\n• The account holder shall have both a current and a saving accounts\n• The account holder shall give written authorization to the bank to link the saving account with the current account\n• The account holder shall provide ID, Tin No, Trade License, Trade Registration Certificate, Article and Memorandum of Association to open current account\n• The account holder shall have a minimum balance in the saving account at all times\n• If the balance in the saving account falls below the stipulated minimum amount, while paying the value of the cheque, the customer shall be communicated to maintain the balance\n• The account holder shall have both a current and a saving accounts\n• The account holder shall give written authorization to the bank to link the saving account with the current account\n• The account holder shall provide ID, Tin No, Trade License, Trade Registration Certificate, Article and Memorandum of Association to open current account\n• The account holder shall have a minimum balance in the saving account at all times\n• If the balance in the saving account falls below the stipulated minimum amount, while paying the value of the cheque, the customer shall be communicated to maintain the balance\nProtect the customer from both financial and legal risks that may otherwise arise from dishonoring check presented for payment due to insufficient balance in the current account",
+    "source": "https://www.awashbank.com/faq",
+    "category": "Awash Bank FAQ"
+  },
+  {
+    "instruction": "Answer the following banking question",
+    "input": "What are the requirements to open Investment Solution Account?",
+    "output": "The procedure to open an account:\n• To provide ID, Tin No, Trade License, Trade Registration Certificate, Investment License, Article and Memorandum of Association to open current account\n• Investment Solution Account shall be a kind of saving account that is designed for individuals or organizations with regular income to save a fixed amount of money every month to reach a fixed sum of money over a fixed period and earn higher interest\n• The Bank and the depositor shall agree on a fixed amount of money to be deposited for the purpose of buying consumer durable goods, vehicles, house and machinery, and expanding business or other investment\n• From the pre agreed amount, the customer shall save 40% within agreed deposit period, which shall range from minimum of one year to maximum of ten years, depending on the demand of the customer’s initial deposit\n• To provide ID, Tin No, Trade License, Trade Registration Certificate, Investment License, Article and Memorandum of Association to open current account\n• Investment Solution Account shall be a kind of saving account that is designed for individuals or organizations with regular income to save a fixed amount of money every month to reach a fixed sum of money over a fixed period and earn higher interest\n• The Bank and the depositor shall agree on a fixed amount of money to be deposited for the purpose of buying consumer durable goods, vehicles, house and machinery, and expanding business or other investment\n• From the pre agreed amount, the customer shall save 40% within agreed deposit period, which shall range from minimum of one year to maximum of ten years, depending on the demand of the customer’s initial deposit\nAttractive interest rate and loan facility",
+    "source": "https://www.awashbank.com/faq",
+    "category": "Awash Bank FAQ"
+  },
+  {
+    "instruction": "Answer the following banking question",
+    "input": "How can I open provident fund solution account?",
+    "output": "The procedure to open an account:\n• The provident Fund Solution Account Shall have a special time deposit features.\n• The Account shall benefit different private organization and their employees with attractive interest rate along with access to loan facility\n• The employees provident fund contribution, if any, as well as the employer’s provident contribution amount shall be deposited monthly to this Account\n• The account can be opened with zero balance in the name of individual employee\n• The provident Fund Solution Account Shall have a special time deposit features.\n• The Account shall benefit different private organization and their employees with attractive interest rate along with access to loan facility\n• The employees provident fund contribution, if any, as well as the employer’s provident contribution amount shall be deposited monthly to this Account\n• The account can be opened with zero balance in the name of individual employee",
+    "source": "https://www.awashbank.com/faq",
+    "category": "Awash Bank FAQ"
+  },
+  {
+    "instruction": "Answer the following banking question",
+    "input": "How do I request branch information?",
+    "output": "Adequate information will be availed immediately without any call validation through 8980 customer line.",
+    "source": "https://www.awashbank.com/faq",
+    "category": "Awash Bank FAQ"
+  },
+  {
+    "instruction": "Answer the following banking question",
+    "input": "What are the requirements for foreign Currency Registration?",
+    "output": "Proforma Invoice, import /investment /Factory/ license, and undertaking letter",
+    "source": "https://www.awashbank.com/faq",
+    "category": "Awash Bank FAQ"
+  },
+  {
+    "instruction": "Answer the following banking question",
+    "input": "What are the requirements for import?",
+    "output": "Foreign currency approval, valid import /investment / factory license, proforma invoice, insurance certificate, permit, LC application(for LC), purchase order for (CAD), undertaking letter for (TT), other and letters from respective government authority based on the items to be imported.",
+    "source": "https://www.awashbank.com/faq",
+    "category": "Awash Bank FAQ"
+  },
+  {
+    "instruction": "Answer the following banking question",
+    "input": "What are the requirements for Export?",
+    "output": "Valid Export /investment /factory license, Sales contract, LC for LC export, undertaking letter for CAD/ Consignment and TT Export, credit or cash sales advice ticket for advance payment export commercial invoice, export permit, and letters from respective government authority based on the items to be exported.",
+    "source": "https://www.awashbank.com/faq",
+    "category": "Awash Bank FAQ"
+  },
+  {
+    "instruction": "Answer the following banking question",
+    "input": "How can I make LC amendment request?",
+    "output": "Request letter and availability of fund for the amendment requested based on the request type",
+    "source": "https://www.awashbank.com/faq",
+    "category": "Awash Bank FAQ"
+  },
+  {
+    "instruction": "Answer the following banking question",
+    "input": "How can I make permit approval or purchase order approval request ?",
+    "output": "Physical presentation of documents as per NBE directive",
+    "source": "https://www.awashbank.com/faq",
+    "category": "Awash Bank FAQ"
+  }
+]
