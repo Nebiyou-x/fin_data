@@ -1,0 +1,86 @@
+[
+  {
+    "instruction": "Answer the following banking FAQ question",
+    "input": "ዕድሜያቸው 18 ዓመት እና ከዚያ በላይ ለሆኑ ልጆች for account ለመክፈት የባንኩ አሠራር ይፈቅዳል? ካልፈቀደ ምክንያቱ ምንድነው?",
+    "output": "For account ከዚህ በፊትም በልምድ የተጀመረ እንጂ በመመሪያ ተደግፎ እንደአሠራር የተጀመረ ነገር አልነበረም፡፡ አሁን ባለው መመሪያ ይህ አሠራር የተፈቀደ አይደለም፡፡ ምክንያቱም፤\nFor account ሒሳቡ የተከፈተለትን ግለሰብ መብት የሚያስጠብቅ አይደለም፡፡ ለምሳሌ፣ ለልጁ ወይም ለሠራተኛው እንዲህ ዓይነት ሒሳብ የከፈተ ሰው ቢሞት፣ የተከፈተለት ሰው ባለመብት ሆኖ ሊጠይቅ አይችልም፡፡\nበሕጉ መሠረት 18 ዓመት እና ከዚያ በላይ ለሆኑ ልጆች በራሳቸው ሒሳብ ከፍተው የማንቀሳቀስ መብት ስላላቸው፤ ሞግዚት (“ስለ” ብሎ የሚከፍትላቸው ሰው) አያስፈልጋቸውም\nዕድሜያቸው ከ18 ዓመት በታች ለሆኑት ግን “ያልደረሱ” (minor) በመሆናቸው minor ሒሳብ ወላጅ/አሳዳጊ ወይም ሌላ የሚመለከተው ሰው ሊከፍትላቸው ይችላል፡፡ በ minor ሒሳብ ውስጥ ሒሳብ ከፋቹ ፈራሚ (ሒሳቡን የሚያንቀሳቅስ) እንጂ የሒሳቡ ባለቤት አይደለም፡፡",
+    "source": "Commercial Bank of Eth",
+    "language": "አማርኛ"
+  },
+  {
+    "instruction": "Answer the following banking FAQ question",
+    "input": "አንድ ሰው PAYEE ONLY የተመታበት ቼክ በስሙ ተፅፎ ቢሰጠው ቼኩን በ & OR በተከፈተ አካውንት ማስገባት ይችላል? ለምሳሌ፣ ቼኩ ለአበበ በቀለ ተብሎ ቢፃፍ አበበ በቀለ እና/ወይም አየለ በቀለ ተብሎ ወደተከፈተ አካውንት ማስገባት ይችላል?",
+    "output": "በ እና/ወይም (and/or) የሚከፈት ሒሳብ በባህሪው ለሁለቱም የሂሳቡ ባለቤቶች በየግል መብት የሚሰጥ ነው፡፡ ይህ ማለት፤ አበበ እና/ወይም አየለ ለሚል ሒሳብ አበበም በግሉ የሂሳቡ ባለቤት ነው፤ አየለም በግሉ የሒሳቡ ባለቤት ነው፡፡ ስለዚህ፣ PAYEE ONLY የተመታበት ቼክ ለአበበ ተጽፎ ቢመጣ ትዕዛዙ “ለአበበ ብቻ ክፈልልኝ” የሚል በመሆኑ፣ አበበ በግሉ የዚያ ሒሳብ ባለቤት ስለሆነ፤ ወደዚያ ሒሳብ ገቢ እንዲደረግለት ከቼኩ ጀርባ በመፈረም ኢንዶርስ እስካደረገ ድረስ ወደሒሳቡ ገቢ ሊደረግለት ይችላል፡፡\n\nሒሳቡ “እና” (and) ብቻ በሚል የተከፈተ ቢሆን ኖሮ ግን (አበበ and አየለ የሚል ቢሆን ኖሮ) ሒሳቡ ለግለሰቦቹ የጋራ እንጂ የግል መብት የሚሰጥ አይደለም፡፡ ስለዚህም፣ PAYEE ONLY የተመታበት ቼክ ለአበበ ተጽፎ ቢመጣ ትዕዛዙ “ለአበበ ብቻ ክፈልልኝ” የሚል በመሆኑ አበበ ደግሞ በዚያ ሒሳብ ላይ ከአየለ ጋር  እንጂ በራሱ ብቻውን መብት ያለው ባለመሆኑ ለእርሱ ብቻ ክፈልልኝ ተብሎ የታዘዘውን ቼክ ወደጋራ ሒሳብ ማስገባት አይቻልም፡፡",
+    "source": "Commercial Bank of Eth",
+    "language": "አማርኛ"
+  },
+  {
+    "instruction": "Answer the following banking FAQ question",
+    "input": "በአንድ ግለሰብ አካዉንት ላይ ወይም በአንድ ድርጅት አካውንት ላይ በተለያዩ ምክንያቶች እንዳይንቀሳቀስ የማሳገድ ስልጣን ከፍርድ ቤት ዉጪ የኢትዮጵያ ገቢዎችና ጉምሩክ ባለስልጣን እና ፀረ-ሙስና መስሪያ ቤት ማዘዝ ይችላሉ ወይ? የሚችሉም ከሆነ ከእነኚህ ዉጪ ሌሎች ካሉ ብትጠቅሱልን !",
+    "output": "ሒሳብ የማገድ ሥልጣን ያላቸው የሚከተሉት ናቸው፤\n\n    ፍርድቤት፣\n\n    የፌዴራል የሥነምግባርና የፀረ-ሙስና ኮሚሽን፣\n\n    ገቢዎች(ጉምሩክ)፣\n\n    ፌዴራል ዓቃቤ ሕግ፣\n\n    የበጎ አድራጎት ማኅበራት ኤጀንሲ(የዕርዳታ ድርጅቶችን ሒሳብ ብቻ)፣ እና\n\n    በጊዜው በሕግ ሥልጣን የተሰጠው አካል (ለምሳሌ፣ በአስቸኳይ ጊዜ አዋጁ ኮማንድ ፖስት)",
+    "source": "Commercial Bank of Eth",
+    "language": "አማርኛ"
+  },
+  {
+    "instruction": "Answer the following banking FAQ question",
+    "input": "I lost my PIN",
+    "output": "When a CBE cardholder forgets or loses his or her pin, he or she can go to the nearby CBE branches and apply for a pin replacement. The new pin will be produced and sent to the requesting branch in a sealed envelope. The customer can collect the new pin by signing on the PIN delivery register book.",
+    "source": "Commercial Bank of Eth",
+    "language": "English"
+  },
+  {
+    "instruction": "Answer the following banking FAQ question",
+    "input": "My PIN is blocked",
+    "output": "If the customer tries the wrong PIN more than three times, the PIN will be blocked. In this case, the customer should wait 24 hours before trying it again. After 24 hours, the PIN will be active; otherwise, follow the above steps to get the new PIN.",
+    "source": "Commercial Bank of Eth",
+    "language": "English"
+  },
+  {
+    "instruction": "Answer the following banking FAQ question",
+    "input": "I lost my card",
+    "output": "If a customer lost his/her card, he/she should call 951 Free CBE Contact Center to blacklist the card immediately and then go to the nearby branch to request a replacement card.",
+    "source": "Commercial Bank of Eth",
+    "language": "English"
+  },
+  {
+    "instruction": "Answer the following banking FAQ question",
+    "input": "My card is captured in ATM (off-branches)",
+    "output": "ATM terminals may capture customers' cards for different reasons. If the ATM is located on the branch premises, the cardholder should inform the branch; if the ATM is located off premises, the cardholder should call 951 to locate the relevant branch. The card will be delivered to the cardholder by the responsible personnel of the branch after verification.",
+    "source": "Commercial Bank of Eth",
+    "language": "English"
+  },
+  {
+    "instruction": "Answer the following banking FAQ question",
+    "input": "My card is rejected by ATM terminals",
+    "output": "The card may be rejected frequently due to damaged cards, passed expiry dates, damaged ATMs etc…, in this case, the cardholder should call 951 to know the reason and go to the nearby branches to take replacements.",
+    "source": "Commercial Bank of Eth",
+    "language": "English"
+  },
+  {
+    "instruction": "Answer the following banking FAQ question",
+    "input": "My balance is deducted without giving me cash on CBE ATM",
+    "output": "The cardholder should call 951 Free CBE Contact Center and register, then the cash is returned back to the account within 2 days.",
+    "source": "Commercial Bank of Eth",
+    "language": "English"
+  },
+  {
+    "instruction": "Answer the following banking FAQ question",
+    "input": "My balance is deducted without giving me cash on another bank ATM",
+    "output": "The cardholder should call 951 Free CBE Contact Center and register, then the cash is returned back to the account within 15 days.",
+    "source": "Commercial Bank of Eth",
+    "language": "English"
+  },
+  {
+    "instruction": "Answer the following banking FAQ question",
+    "input": "ሲቢኢ ብርን ለመጠቀም ደንበኞች እንዴት በራሳቸው መመዝገብ ይችላሉ?",
+    "output": "ደንበኞች የሲቢኢ ብር ደንበኛ ለመሆን በሁለት መንገድ በራሳቸው መመዝገብ ይችላሉ፡፡\nየመጀመሪያው ወደ *847# በመደወል እና አስፈላጊውን መረጃ በማስገባት መመዝገብ የሚችሉ ሲሆና፣ ሁለተኛው የሲቢኢ ብርን መተግበሪያ ከGoogle Play ወይም  ከ App Store በማውረድ በመተግበሪያው መመዝገብ ይችላሉ፡፡ \n\nደንበኞች በቀን ውስጥ በሲቢኢ ብር የሚያንቀሳቅሱትን የገንዘብ መጠን ገደብ ለማሳደግ መታወቂያ በመያዝ ወደ ባንኩ ቅርንጫፍ ወይም ወደ ሲቢኢ ብር ወኪል ዘንድ ሄደው ምዝገባቸውን ማጠናቀ ይችላሉ፡፡  \n\n\nየሲቢኢ ብር መተግበሪያን በሚከተሉት ማስፈንጠሪያዎች በመግባት ማግኘት ይችላሉ፡\n\n• ለአንድሮይድ ስልኮች፡ https://play.google.com/store/apps/details?id=prod.cbe.birr\n• ለአፕል ስልኮች፡ https://apps.apple.com/us/app/cbebirr/id1600841787",
+    "source": "Commercial Bank of Eth",
+    "language": "አማርኛ"
+  },
+  {
+    "instruction": "Answer the following banking FAQ question",
+    "input": "የሲቢኢ ብር አገልግሎት የሚስጥር ቁጥር (PIN) እረሳሁ፡፡  ምን ላድርግ?",
+    "output": "የሲቢኢ ብር አገልግሎት የሚስጥር ቁጥርዎን (PIN) ከረሱ  የሚከተለውን ያድርጉ፡፡\n\n•\tወደ *847#  በመደወል የሲቢኢ ብር አገልግሎትን የሚያገኙ ከሆነና የሚስጥር ቁጥርዎን ከረሱ ወደ 951 በመደወል አዲስ የሚስጥር ቁጥር ያግኙ፡፡\n\n•\tበሲቢኢ ብር መተግበሪያ የሚጠቀሙ ከሆነ መተግበሪያው ላይ ባለው የአገልግሎት አማራጭ (PIN Reset) አዲስ የሚስጥር ቁጥር ማግኘት ይችላሉ፡፡",
+    "source": "Commercial Bank of Eth",
+    "language": "አማርኛ"
+  }
+]
